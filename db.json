@@ -24,5 +24,63 @@
             "estrela": 0,
             "view": 0
         }
+    ],
+    "conteudo": [
+        {
+            "id": 1,
+            "img": "Imagens/PROGRAMANDO.avif",
+            "titulo": "1° Imagem - Programação",
+            "descricao": "Cursando S.I aumentou o interesse na programção"
+        },
+        {
+            "id": 2,
+            "img": "Imagens/FÍSICA.avif",
+            "titulo": "2° Imagem - Física",
+            "descricao": "Sempre com a curiosidade no mundo físico, já que há muitos mistérios!"
+        },
+        {
+            "id": 3,
+            "img": "https://img.freepik.com/fotos-premium/piano-e-notas-musicais-no-fundo-ilustracao-ai-generative_115919-13514.jpg",
+            "titulo": "3° Imagem - Música",
+            "descricao": "Música é uma forma de arte, que relaxa e acalma!"
+        },
+        {
+            "id": 4,
+            "img": "Imagens/HISTÓRIA.avif",
+            "titulo": "4° Imagem - História",
+            "descricao": "Baseada em fatos, desperta interesse, pois serve para enterder o futuro e o presente!"
+        },
+        {
+            "id": 5,
+            "img": "Imagens/MUSTANG.avif",
+            "titulo": "5° Imagem - Esportivos",
+            "descricao": "Forma de apreciar o desenvolvimento em humano, aprecaiando carros esportivos!"
+        }
+    ],
+    "colegas": [
+        {
+            "id": 1,
+            "img": "Imagens/lucas.jpg",
+            "nome": "Lucas",
+            "url": "https://github.com/lucsfn"
+        },
+        {
+            "id": 2,
+            "img": "Imagens/Luiz.jpg",
+            "nome": "Luiz Fernando",
+            "url": "https://github.com/Luiz296"
+        },
+        {
+            "id": 3,
+            "img": "Imagens/alfredo.jpg",
+            "nome": "Alfredo",
+            "url": "https://github.com/FredoCmps"
+        },
+        {
+            "id": 4,
+            "img": "Imagens/Allef.jpg",
+            "nome": "Allef",
+            "url": "https://github.com/AllefHerique"
+        }
     ]
 }
