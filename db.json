@@ -6,7 +6,17 @@
             "descricao": "Repositório criado para treinar apenas utilização do GitHub",
             "img": "Imagens/branco.jpg",
             "estrela": 0,
-            "view": 0
+            "view": 0,
+            "dtoda": "Primeiro repositório criado no GitHub utilizado apenas para aprender é uma experiência emocionante e cheia de descobertas. É o ponto de partida para explorar o vasto mundo da programação colaborativa, onde posso compartilhar meus projetos, aprender com outros desenvolvedores e contribuir para a comunidade de código aberto. É um passo importante em direção ao domínio das ferramentas e práticas essenciais para se tornar um desenvolvedor de software habilidoso e confiante.",
+            "data": "2024-04-11",
+            "linguagem": "HTML5 e CSS3",
+            "url": "https://github.com/dudu296/Teste",
+            "topicos": [
+                "HTML5",
+                "CSS3",
+                "Front-end",
+                "GitHub"
+            ]
         },
         {
             "id": 2,
@@ -14,7 +24,17 @@
             "descricao": "Repositório criado para treinar principalmente HTML5 e a utilização do GitHub",
             "img": "Imagens/image.png",
             "estrela": 0,
-            "view": 0
+            "view": 0,
+            "dtoda": "Repositório criado após o repositório teste afim de reforçar o conhecimento sobre o GitHub, agora já criando linhas de código de HTML5 e CSS3, expandindo habilidades além da gestão de repositórios, começando a desenvolver minhas próprias páginas web.",
+            "data": "2024-04-11",
+            "linguagem": "HTML5 e CSS3",
+            "url": "https://github.com/dudu296/Teste-2",
+            "topicos": [
+                "HTML5",
+                "CSS3",
+                "Front-end",
+                "GitHub"
+            ]
         },
         {
             "id": 3,
@@ -22,7 +42,19 @@
             "descricao": "Trabalho inspirado no site Frontend_Mentor para treinamento de linguagens como HTML5 e CSS3",
             "img": "Imagens/active-states.jpg",
             "estrela": 0,
-            "view": 0
+            "view": 0,
+            "dtoda": "O repositório foi originado a partir de um desafio fornecido pelo site Frontend_Mentor. Ao fazer o download do arquivo, são disponibilizadas imagens de referência, bem como imagens a serem utilizadas no site e até mesmo conteúdo pré-digitado. Essa abordagem permite que o desenvolvedor crie suas próprias linhas de código, seguindo uma referência visual fornecida. Essa prática se revela rápida e eficiente para o estudo da lógica de programação, especialmente no contexto das linguagens HTML e CSS. Neste caso, o desafio escolhido envolveu especificamente essas linguagens, oferecendo uma oportunidade valiosa para o desenvolvimento das habilidades necessárias nesse domínio.",
+            "data": "2024-04-11",
+            "linguagem": "HTML5 e CSS3",
+            "url": "https://github.com/Eduardo296/Teste3",
+            "topicos": [
+                "HTML5",
+                "CSS3",
+                "Front-end",
+                "GitHub",
+                "BoxIcons",
+                "Frontend_Mentor"
+            ]
         }
     ],
     "conteudo": [
